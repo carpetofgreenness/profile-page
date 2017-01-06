@@ -115,6 +115,11 @@ body {
 	color: rgb(246,246,246);
 }
 
+.navbar-default .navbar-nav > .active:hover > a{
+	background-color: rgba(74, 20, 140,.2);
+	color: rgb(74, 20, 140);
+}
+
 .navbar-default .navbar-brand {
 	color: #4A148C;
 }
